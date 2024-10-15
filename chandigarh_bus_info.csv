@@ -1,0 +1,560 @@
+Bus Name,Bus Type,Start Time,End Time,Duration,Price,Seat Availability,Ratings,Route Name,Route Link
+NBSTC -SLG-ROH-DJL-01-7:00 - 161760,Non AC Seater 2+2,07:00,10:00,03h 00m,INR 105,10 Seats available,"3.2
+264",Siliguri to Darjeeling,https://www.redbus.in/bus-tickets/siliguri-to-darjeeling
+NBSTC -SLG-ROH-DJL-02-8:00 - 158470,Non AC Seater 2+2,08:00,11:00,03h 00m,INR 105,4 Seats available,"3.7
+279",Siliguri to Darjeeling,https://www.redbus.in/bus-tickets/siliguri-to-darjeeling
+NBSTC-SLG-KOL-AC-18:45 - 176648,AC Seater (2+2),18:45,07:00,12h 15m,INR 1245,N/A,"5.0
+2",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+NBSTC-SLG-KOL-AC-19:00 - 157844,AC Seater (2+2),19:00,07:00,12h 00m,INR 1245,N/A,"2.9
+142",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+WBTC (CTC) KOLKATA-RAIGUNGE-SILIGURI(AC-VOLVO) - 195|18:30,Volvo AC Seater (2+2),18:30,06:15,11h 45m,INR 1355,N/A,"3.5
+15",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+SBSTC-SILIGURI - KOLKATA - VOLVO - 19:35 (BEL DEPOT) - 3926,Volvo AC Seater (2+2),19:35,08:35,13h 00m,INR 1210,N/A,"3.9
+100",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:25,12h 55m,INR 2800,N/A,"4.8
+628",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+AdExpress Line,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,07:50,12h 50m,INR 2199,N/A,"4.4
+534",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:10,12h 40m,INR 2499,N/A,"4.5
+503",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,07:20,12h 50m,INR 1699,N/A,"4.4
+683",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,07:45,12h 30m,INR 2700,N/A,"4.5
+370",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,08:05,12h 50m,INR 2700,N/A,"4.6
+183",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,06:05,12h 05m,INR 2700,N/A,"4.4
+429",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:15,05:45,14h 30m,720,N/A,"2.8
+5",Siliguri to Kolkata,https://www.redbus.in/bus-tickets/siliguri-to-kolkata
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,04:20,13h 20m,INR 450,N/A,"3.7
+78",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,05:00,12h 00m,INR 486,N/A,"3.7
+199",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,06:00,12h 00m,INR 486,N/A,"3.9
+386",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-KOL-RAI-SLG-RKT-18:30 - 176651,Non AC Seater (2+2),18:30,06:30,12h 00m,INR 486,N/A,"4.8
+14",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-KOL-SLG-AC-18:30 - 157843,AC Seater (2+2),19:00,07:00,12h 00m,INR 1245,N/A,"3.3
+87",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-KOL-COB-AC 19:30 - 176646,AC Seater (2+2),19:30,07:20,11h 50m,INR 1245,N/A,3.7,Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+SBSTC-KOLKATA - SILIGURI - VOLVO - 20:05 (BEL DEPT) - 3925,Volvo AC Seater (2+2),20:05,09:05,13h 00m,INR 1210,N/A,"3.9
+126",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:25,12h 55m,INR 1500,N/A,"4.7
+663",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,07:30,12h 45m,1500,N/A,"4.6
+511",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),18:30,07:45,13h 15m,INR 1200,N/A,"4.5
+772",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,08:15,13h 00m,INR 1600,N/A,"4.6
+330",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),19:00,08:15,13h 15m,INR 1200,N/A,"4.4
+598",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:45,06:15,14h 30m,540,N/A,"3.3
+19",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,06:30,12h 15m,INR 1300,N/A,"4.4
+516",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,06:50,12h 50m,INR 1500,N/A,"4.4
+410",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,07:40,13h 10m,INR 1499,N/A,"4.6
+532",Kolkata to Siliguri,https://www.redbus.in/bus-tickets/kolkata-to-siliguri
+NBSTC-RAI-KOL-R1-19:30 - 156414,NON A/C Seater Push Back (2+2),20:30,06:30,10h 00m,INR 341,N/A,"3.8
+265",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),22:15,07:10,08h 55m,INR 2499,N/A,"4.6
+97",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Seater/Sleeper (2+1),22:15,07:20,09h 05m,INR 1699,N/A,"4.8
+38",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),22:45,06:45,08h 00m,INR 1600,N/A,"4.2
+51",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,07:45,08h 15m,INR 2700,N/A,"4.6
+32",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),21:20,06:35,09h 15m,INR 1600,N/A,"3.1
+61",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,07:30,08h 00m,INR 2370,N/A,"4.8
+8",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,07:30,08h 20m,INR 1350,N/A,"3.7
+24",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:00,08:05,09h 05m,INR 2700,N/A,"5.0
+5",Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+Prarthana Bus Service,A/C Seater / Sleeper (2+1),01:20,09:30,08h 10m,INR 2200,N/A,New,Raiganj to Kolkata,https://www.redbus.in/bus-tickets/raiganj-to-kolkata
+NBSTC-KOL-BHP-RAI-E1-4:30 - 164044,Non AC Seater (2+3),04:30,14:30,10h 00m,INR 313,46 Seats available,"3.6
+8",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,01:30,10h 30m,INR 315,N/A,"5.0
+6",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,00:30,07h 30m,INR 341,N/A,"2.4
+23",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,03:00,09h 00m,INR 341,N/A,"3.6
+30",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+NBSTC-KOL-RAI-R1-20:30 - 156416,NON A/C Seater Push Back (2+2),20:45,06:45,10h 00m,INR 341,N/A,"3.9
+264",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,03:00,09h 00m,740,N/A,"4.0
+61",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,06:00,10h 30m,INR 1199,N/A,"4.5
+37",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,05:20,10h 50m,INR 1499,N/A,"4.9
+46",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),19:00,03:50,08h 50m,INR 1200,N/A,"4.7
+14",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:30,03:50,09h 20m,INR 1200,N/A,"4.4
+18",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,04:50,10h 50m,INR 1500,N/A,"4.8
+11",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,04:40,10h 10m,INR 1500,N/A,"4.9
+8",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,05:00,10h 15m,1500,N/A,"4.3
+13",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,03:30,09h 15m,INR 950,N/A,"3.3
+25",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:00,04:00,10h 00m,INR 1199,N/A,"4.6
+6",Kolkata to Raiganj,https://www.redbus.in/bus-tickets/kolkata-to-raiganj
+NORTH BENGAL STATE TRANSPORT CORPORATION - 164527,Non AC Seater (2+3),09:00,18:00,09h 00m,INR 256,46 Seats available,"2.2
+29",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,23:45,08h 45m,INR 256,45 Seats available,"4.7
+14",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,01:17,08h 17m,INR 281,17 Seats available,"3.7
+5",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,23:15,05h 15m,INR 281,N/A,"2.0
+34",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+NBSTC-KOL-BLG-R1-19:30 - 156420,NON A/C Seater Push Back (2+2),19:45,05:15,09h 30m,INR 281,N/A,"3.7
+79",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+NBSTC-KOL-RAI-R1-20:30 - 156416,NON A/C Seater Push Back (2+2),20:45,03:45,07h 00m,INR 280,N/A,"3.6
+120",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+SBSTC-KOLKATA - SILIGURI - VOLVO - 20:05 (BEL DEPT) - 3925,Volvo AC Seater (2+2),20:05,00:00,03h 55m,INR 660,N/A,"3.0
+28",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,04:30,08h 45m,INR 649,N/A,"4.3
+397",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,04:30,08h 30m,INR 650,N/A,"4.2
+322",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,02:10,06h 40m,INR 750,N/A,"4.1
+125",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),18:00,02:05,08h 05m,648,N/A,"3.9
+147",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,02:30,08h 15m,INR 700,N/A,"4.4
+38",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,02:50,08h 50m,INR 1500,N/A,"5.0
+10",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Seater/Sleeper (2+1),19:00,03:20,08h 20m,INR 1200,N/A,"4.7
+13",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,04:00,08h 45m,INR 1600,N/A,"4.8
+12",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,04:00,08h 30m,INR 1199,N/A,"4.3
+18",Kolkata to Malda,https://www.redbus.in/bus-tickets/kolkata-to-malda
+NBSTC-MLD-BHP-KOL-E2-05:00 AM - 164492,Non AC Seater (2+3),05:00,14:30,09h 30m,INR 256,46 Seats available,"1.3
+5",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+NBSTC-BLG-KOL-R1-18:30 - 156419,NON A/C Seater Push Back (2+2),20:45,06:00,09h 15m,INR 276,N/A,"4.1
+86",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+NBSTC-RAI-KOL-R1-19:30 - 156414,NON A/C Seater Push Back (2+2),22:00,06:30,08h 30m,INR 276,N/A,"4.0
+75",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:30,07:10,07h 40m,INR 2499,N/A,"4.7
+138",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),22:00,05:00,07h 00m,INR 849,N/A,"4.4
+497",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),22:00,05:00,07h 00m,INR 1000,N/A,"4.2
+377",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),23:55,06:45,06h 50m,INR 1600,N/A,"4.5
+69",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),21:20,04:30,07h 10m,INR 910,N/A,"3.9
+119",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),23:15,06:35,07h 20m,INR 1200,N/A,"3.5
+175",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),23:15,06:05,06h 50m,INR 2700,N/A,"4.4
+43",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C seater/sleeper (2+1),00:30,07:20,06h 50m,INR 1700,N/A,"4.7
+22",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),22:45,06:30,07h 45m,INR 400,N/A,"3.8
+39",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Express Line,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),23:55,07:50,07h 55m,INR 2199,N/A,"3.8
+19",Malda to Kolkata,https://www.redbus.in/bus-tickets/malda-to-kolkata
+Coochbihar to Kolkata (E2) 9:15 am - 171766,Non AC Seater (2+3),09:15,22:00,12h 45m,INR 414,34 Seats available,"1.0
+1",Cooch Behar (West Bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-berhampore
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:00,07:30,12h 30m,INR 448,N/A,"3.7
+89",Cooch Behar (West Bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-berhampore
+Upasana Transport,NON A/C Seater / Sleeper (2+2),17:00,06:40,13h 40m,INR 600,N/A,"4.2
+6",Cooch Behar (West Bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-berhampore
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,06:00,15h 00m,INR 565,N/A,"3.7
+34",Kolkata to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-cooch-behar-west-bengal
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,08:00,15h 00m,INR 608,N/A,"3.4
+115",Kolkata to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-cooch-behar-west-bengal
+NBSTC-KOL-COB-AC 19:30 - 176646,AC Seater (2+2),19:30,11:30,16h 00m,INR 1565,N/A,"5.0
+1",Kolkata to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-cooch-behar-west-bengal
+NBSTC-KOL-BND-BLG-E1-4:00 - 164542,Non AC Seater (2+3),04:00,14:00,10h 00m,INR 340,51 Seats available,"3.8
+5",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+NBSTC-KOL-BLG-R1-19:30 - 156420,NON A/C Seater Push Back (2+2),19:45,07:15,11h 30m,INR 367,10 Seats available,"4.0
+151",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,06:15,10h 30m,INR 699,N/A,"4.6
+413",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,06:15,10h 15m,INR 700,N/A,"4.1
+278",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,04:00,08h 30m,INR 750,N/A,"4.1
+201",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Sonar Tori,A/C Seater / Sleeper (2+2),19:45,05:30,09h 45m,INR 530,N/A,"3.2
+84",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Padmanabha Paribahan,A/C Seater / Sleeper (2+2),20:00,06:30,10h 30m,475,N/A,"2.7
+76",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),17:30,07:00,13h 30m,INR 450,N/A,"2.8
+29",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),19:30,08:00,12h 30m,INR 370,N/A,"2.5
+51",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),18:45,07:30,12h 45m,INR 400,N/A,"2.8
+22",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+D.K. Traders (Tsa NBSTC),Non AC Seater (2+3),07:00,19:00,12h 00m,INR 340,N/A,"1.6
+3",Kolkata to Balurghat,https://www.redbus.in/bus-tickets/kolkata-to-balurghat
+NBSTC-BHP-COB-R1-18:30 - 156423,Non AC Seater 2+2,18:30,07:00,12h 30m,INR 448,N/A,"3.8
+67",Berhampore (West Bengal) to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/berhampore-to-cooch-behar-west-bengal
+Upasana Transport,NON A/C Seater / Sleeper (2+2),20:40,08:50,12h 10m,INR 600,N/A,"4.1
+5",Berhampore (West Bengal) to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/berhampore-to-cooch-behar-west-bengal
+NBSTC-BHP-COB-R1-18:30 - 156423,Non AC Seater 2+2,18:30,02:30,08h 00m,INR 326,2 Seats available,"3.9
+62",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),23:45,06:30,06h 45m,INR 800,N/A,"4.4
+180",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Aradhana Travels,A/C Seater / Sleeper (2+1),20:50,06:00,09h 10m,765,N/A,"3.8
+216",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Aradhana Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),22:00,06:00,08h 00m,900,N/A,"3.7
+357",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),00:30,07:30,07h 00m,INR 1500,N/A,"3.4
+29",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),23:59,07:15,07h 16m,INR 1199,N/A,"3.7
+13",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Royal Bus Service,NON A/C Seater / Sleeper (2+2),21:30,06:00,08h 30m,INR 450,N/A,"2.9
+18",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Aradhana Bus Service,A/C Seater / Sleeper (2+2),20:00,05:00,09h 00m,796,N/A,"3.2
+13",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Upasana Transport,NON A/C Seater / Sleeper (2+2),20:40,05:00,08h 20m,INR 475,N/A,"3.3
+8",Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+Maa Durga Bus Service (SNT),A/C Seater / Sleeper (2+1),23:00,06:00,07h 00m,720,N/A,3.7,Berhampore (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/berhampore-to-siliguri
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:00,01:45,06h 45m,INR 277,N/A,"3.6
+17",Cooch Behar (West Bengal) to Raiganj,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-raiganj
+NBSTC-BHP-COB-R1-18:30 - 156423,Non AC Seater 2+2,20:50,07:00,10h 10m,INR 338,N/A,"3.2
+40",Malda to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/malda-to-cooch-behar-west-bengal
+NBSTC-BLG-KOL-R1-18:30 - 156419,NON A/C Seater Push Back (2+2),18:30,06:00,11h 30m,INR 367,10 Seats available,"4.2
+61",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),18:50,05:00,10h 10m,INR 899,N/A,"4.5
+312",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),18:55,04:30,09h 35m,INR 950,N/A,"4.3
+126",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),19:15,05:00,09h 45m,INR 1000,N/A,"3.9
+218",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),19:45,06:30,10h 45m,INR 400,N/A,"4.0
+47",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Sonar Tori,A/C Seater / Sleeper (2+2),19:30,06:30,11h 00m,648,N/A,"3.5
+59",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Padmanabha Paribahan,A/C Seater / Sleeper (2+2),19:15,07:00,11h 45m,599,N/A,"3.3
+42",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),18:30,05:30,11h 00m,INR 350,N/A,"3.4
+35",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),18:45,06:00,11h 15m,INR 400,N/A,"3.8
+9",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Mohanta Travels,NON A/C Seater / Sleeper (2+2),19:00,06:00,11h 00m,361,N/A,"2.0
+18",Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+D.K. Traders (Tsa NBSTC),Non AC Seater (2+3),03:30,15:30,12h 00m,INR 340,N/A,1.3,Balurghat to Kolkata,https://www.redbus.in/bus-tickets/balurghat-to-kolkata
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:45,02:00,07h 15m,INR 1600,4 Seats available,"4.4
+84",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Aradhana Travels,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),21:30,05:30,08h 00m,1350,N/A,"3.8
+425",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,02:30,07h 15m,INR 2700,N/A,"4.7
+51",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:30,03:25,06h 55m,INR 1700,N/A,"4.7
+40",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Royal Bus Service,NON A/C Seater / Sleeper (2+2),21:10,06:00,08h 50m,INR 450,N/A,"3.7
+27",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:30,01:40,07h 10m,INR 1599,N/A,"4.1
+8",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,01:50,07h 20m,INR 2800,N/A,"3.0
+8",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:15,23:45,08h 30m,720,N/A,3.0,Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:24,02:40,07h 16m,INR 2370,N/A,"2.8
+11",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,02:00,07h 00m,INR 1300,N/A,"2.1
+6",Siliguri to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-berhampore
+Coochbihar to Kolkata (E2) 9:15 am - 171766,Non AC Seater (2+3),09:15,18:30,09h 15m,INR 312,34 Seats available,"3.0
+1",Cooch Behar (West Bengal) to Malda,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-malda
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:00,03:19,08h 19m,INR 338,N/A,"4.4
+27",Cooch Behar (West Bengal) to Malda,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-malda
+NBSTC-KOL-BLG-R1-19:30 - 156420,NON A/C Seater Push Back (2+2),19:45,06:15,10h 30m,INR 335,N/A,"3.7
+56",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,05:45,10h 00m,INR 699,N/A,"4.5
+161",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,05:45,09h 45m,INR 700,N/A,"3.9
+115",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,03:15,07h 45m,INR 750,N/A,"3.9
+60",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),17:30,05:30,12h 00m,INR 450,N/A,"3.6
+12",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+Renuka Travels,NON A/C Seater / Sleeper (2+2),21:30,07:30,10h 00m,INR 450,N/A,"1.4
+4",Kolkata to Gangarampur,https://www.redbus.in/bus-tickets/kolkata-to-gangarampur
+Coochbihar to Kolkata (E2) 9:15 am - 171766,Non AC Seater (2+3),10:00,22:00,12h 00m,INR 380,35 Seats available,"2.0
+1",Falakata (west bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/falakata-to-berhampore
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:50,07:30,11h 40m,INR 411,N/A,"4.2
+21",Falakata (west bengal) to Berhampore (West Bengal),https://www.redbus.in/bus-tickets/falakata-to-berhampore
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,04:50,13h 50m,INR 485,N/A,"2.0
+2",Kolkata to Jalpaiguri,https://www.redbus.in/bus-tickets/kolkata-to-jalpaiguri
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,05:45,12h 45m,INR 525,N/A,"3.0
+35",Kolkata to Jalpaiguri,https://www.redbus.in/bus-tickets/kolkata-to-jalpaiguri
+Coochbihar to Kolkata (E2) 9:15 am - 171766,Non AC Seater (2+3),09:15,05:15,20h 00m,INR 565,N/A,"2.9
+7",Cooch Behar (West Bengal) to Kolkata,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-kolkata
+NBSTC-KOL-RAI-R1-20:30 - 156416,NON A/C Seater Push Back (2+2),20:45,01:30,04h 45m,INR 251,N/A,"3.7
+26",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,04:00,08h 15m,INR 649,N/A,"4.3
+74",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,04:00,08h 00m,INR 650,N/A,"4.5
+51",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,01:30,06h 00m,INR 750,N/A,"4.2
+10",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:00,01:30,07h 30m,INR 1199,N/A,4.2,Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,02:15,07h 15m,INR 1500,N/A,4.2,Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),21:30,05:15,07h 45m,315,N/A,"5.0
+2",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Wasim Travels,NON A/C Seater / Sleeper (2+2),22:00,06:00,08h 00m,INR 455,N/A,"2.5
+6",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Wasim Travels,NON A/C Seater / Sleeper (2+2),22:30,06:30,08h 00m,INR 455,N/A,"1.7
+6",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+New Dolphin Travels,A/C Seater / Sleeper (2+2),19:00,02:45,07h 45m,INR 530,N/A,"2.1
+6",Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),16:45,01:30,08h 45m,INR 750,N/A,2.4,Kolkata to Farakka,https://www.redbus.in/bus-tickets/kolkata-to-farakka
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,03:15,12h 15m,INR 390,N/A,"4.0
+1",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,04:30,11h 30m,INR 425,N/A,"4.0
+11",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,04:00,10h 00m,INR 425,N/A,"2.9
+9",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,07:25,11h 55m,INR 1199,N/A,"4.6
+31",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Shyamoli Paribahan Pvt Ltd,Volvo Multi-Axle A/C Seater/Sleeper (2+1),19:00,07:10,12h 10m,INR 1200,N/A,"4.4
+18",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:00,06:15,12h 15m,INR 1199,N/A,"4.3
+18",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,07:00,12h 00m,INR 1500,N/A,"4.1
+9",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:00,06:10,12h 10m,INR 1500,N/A,"3.4
+4",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Maa Durga Bus Service (SNT),A/C Seater / Sleeper (2+1),17:00,05:00,12h 00m,720,N/A,3.7,Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Shyamoli Paribahan Pvt Ltd,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,07:25,12h 10m,INR 1600,N/A,"5.0
+1",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),18:30,06:20,11h 50m,INR 860,N/A,"4.5
+26",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Express Line,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,07:10,12h 10m,INR 1499,N/A,"4.7
+17",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,06:40,12h 10m,INR 1499,N/A,"4.5
+12",Kolkata to Islampur (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-islampur-west-bengal
+NBSTC-BHP-COB-R1-18:30 - 156423,Non AC Seater 2+2,18:30,05:30,11h 00m,INR 412,N/A,"4.1
+19",Berhampore (West Bengal) to Falakata (west bengal),https://www.redbus.in/bus-tickets/berhampore-to-falakata
+NORTH BENGAL STATE TRANSPORT CORPORATION - 159674,Non AC Seater 2+2,08:00,11:30,03h 30m,INR 120,35 Seats available,"2.2
+22",Siliguri to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-cooch-behar-west-bengal
+Jay Kali Bus Service,Non AC Seater (2+2),06:35,09:35,03h 00m,INR 122,48 Seats available,New,Siliguri to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-cooch-behar-west-bengal
+Mahaprabhu Travels,A/C Seater (2+3),13:58,17:00,03h 02m,INR 250,39 Seats available,"1.9
+6",Siliguri to Cooch Behar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-cooch-behar-west-bengal
+NBSTC-RAI-KOL-R1-19:30 - 156414,NON A/C Seater Push Back (2+2),20:30,04:00,07h 30m,INR 250,N/A,"3.6
+19",Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:10,04:40,05h 30m,INR 1350,N/A,"2.7
+2",Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+Prarthana Bus Service,A/C Seater / Sleeper (2+1),01:20,06:00,04h 40m,INR 2200,N/A,New,Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),19:15,03:00,07h 45m,INR 700,N/A,2.4,Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),19:45,03:20,07h 35m,540,N/A,3.0,Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+RAYAN,NON A/C Seater / Sleeper (2+2),22:00,05:00,07h 00m,INR 700,N/A,2.4,Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+RAYAN,A/C Seater / Sleeper (2+1),21:15,04:00,06h 45m,INR 1500,N/A,2.4,Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+Poulami Paribahan,Volvo Multi-Axle A/C Seater/Sleeper (2+1),22:45,04:50,06h 05m,INR 2300,N/A,"2.0
+1",Raiganj to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-krishnanagar
+NBSTC-KOL-BLG-R1-19:30 - 156420,NON A/C Seater Push Back (2+2),19:45,05:45,10h 00m,INR 323,N/A,"4.3
+33",Kolkata to Buniadpur,https://www.redbus.in/bus-tickets/kolkata-to-buniadpur
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,05:15,09h 30m,INR 699,N/A,"4.8
+73",Kolkata to Buniadpur,https://www.redbus.in/bus-tickets/kolkata-to-buniadpur
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,02:50,07h 20m,INR 750,N/A,"3.9
+37",Kolkata to Buniadpur,https://www.redbus.in/bus-tickets/kolkata-to-buniadpur
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,05:15,09h 15m,INR 700,N/A,"3.3
+36",Kolkata to Buniadpur,https://www.redbus.in/bus-tickets/kolkata-to-buniadpur
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),17:30,05:10,11h 40m,INR 450,N/A,"3.3
+4",Kolkata to Buniadpur,https://www.redbus.in/bus-tickets/kolkata-to-buniadpur
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,05:20,10h 20m,INR 1350,N/A,"3.8
+30",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:30,05:35,09h 05m,INR 1700,N/A,"4.9
+9",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,04:50,09h 35m,INR 2700,N/A,"4.9
+9",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:45,04:30,09h 45m,INR 1600,N/A,"4.8
+9",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),14:30,03:10,12h 40m,INR 700,N/A,5.0,Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Lokenath Bus Service,Volvo A/C Seater (2+2),17:00,03:50,10h 50m,INR 1550,N/A,"5.0
+1",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Lokenath Bus Service,A/C Seater / Sleeper (2+1),18:15,04:45,10h 30m,INR 1250,N/A,"3.0
+3",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+RAYAN,A/C Seater / Sleeper (2+1),18:15,04:30,10h 15m,INR 1500,N/A,"5.0
+1",Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+Modern Travels,Bharat Benz A/C Sleeper (2+1),19:30,05:00,09h 30m,INR 3000,N/A,3.8,Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+RAYAN,NON A/C Seater / Sleeper (2+2),16:50,06:00,13h 10m,INR 700,N/A,2.4,Siliguri to Ranaghat,https://www.redbus.in/bus-tickets/siliguri-to-ranaghat
+NBSTC-KOL-RAI-R1-20:30 - 156416,NON A/C Seater Push Back (2+2),20:45,05:15,08h 30m,INR 323,N/A,"2.9
+18",Kolkata to Itahar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-itahar-west-bengal
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),16:45,03:15,10h 30m,INR 750,N/A,2.4,Kolkata to Itahar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-itahar-west-bengal
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),21:30,07:10,09h 40m,450,N/A,3.0,Kolkata to Itahar (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-itahar-west-bengal
+NBSTC-KOL-RAI-R1-20:30 - 156416,NON A/C Seater Push Back (2+2),20:45,04:15,07h 30m,INR 301,N/A,"3.8
+18",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,04:45,09h 00m,INR 649,N/A,"4.7
+81",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,02:30,07h 00m,INR 750,N/A,"5.0
+13",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),17:30,04:30,11h 00m,INR 450,N/A,"3.0
+5",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+New Dolphin Travels,A/C Seater / Sleeper (2+2),19:00,04:15,09h 15m,INR 580,N/A,"3.7
+9",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),16:45,02:30,09h 45m,INR 750,N/A,2.4,Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),21:30,06:45,09h 15m,315,N/A,"1.0
+3",Kolkata to Gazole,https://www.redbus.in/bus-tickets/kolkata-to-gazole
+Coochbihar to Kolkata (E2) 9:15 am - 171766,Non AC Seater (2+3),10:00,18:30,08h 30m,INR 278,41 Seats available,4.2,Falakata (west bengal) to Malda,https://www.redbus.in/bus-tickets/falakata-to-malda
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:50,03:19,07h 29m,INR 302,N/A,"4.2
+12",Falakata (west bengal) to Malda,https://www.redbus.in/bus-tickets/falakata-to-malda
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:24,04:00,08h 36m,INR 2370,N/A,"4.8
+34",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Express Line,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,04:10,09h 40m,INR 2499,N/A,"4.7
+33",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Lokenath Bus Service,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),20:30,05:00,08h 30m,INR 1700,N/A,"4.5
+33",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,04:00,09h 30m,INR 2800,N/A,"4.6
+27",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Rubi Paribahan  ,Volvo Multi Axle B11R AC Seater\Sleeper (2+1),18:30,03:00,08h 30m,INR 1599,N/A,"4.4
+28",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Prarthana Bus Service,A/C Seater / Sleeper (2+1),21:00,06:00,09h 00m,INR 2200,N/A,New,Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:15,04:30,09h 15m,INR 2700,N/A,"4.6
+18",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:45,04:00,09h 15m,INR 1600,N/A,"4.6
+10",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Express Line,Volvo Multi Axle A/C Sleeper I-Shift B11R (2+1),19:00,04:50,09h 50m,INR 2199,N/A,"3.6
+25",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+Modern Travels,Bharat Benz A/C Seater /Sleeper (2+1),19:00,04:40,09h 40m,INR 1350,N/A,"3.4
+25",Siliguri to Krishnanagar (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-krishnanagar
+NBSTC-BLG-KOL-R1-18:30 - 156419,NON A/C Seater Push Back (2+2),19:20,06:00,10h 40m,INR 334,N/A,"3.8
+33",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),19:45,05:00,09h 15m,INR 899,N/A,"4.1
+114",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:00,05:00,09h 00m,INR 1000,N/A,"4.0
+87",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:35,04:30,08h 55m,INR 910,N/A,"4.5
+34",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Padmanabha Paribahan,A/C Seater / Sleeper (2+2),20:15,07:00,10h 45m,599,N/A,"4.8
+5",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),19:30,05:30,10h 00m,INR 340,N/A,"3.9
+11",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Sonar Tori,A/C Seater / Sleeper (2+2),20:25,06:30,10h 05m,648,N/A,"3.2
+11",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),20:40,06:30,09h 50m,INR 400,N/A,"2.7
+5",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Mohanta Travels,NON A/C Seater / Sleeper (2+2),20:00,06:00,10h 00m,361,N/A,"2.8
+15",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+Jio Dolphin Travels,VE A/C Seater / Sleeper (2+2),20:00,06:00,10h 00m,INR 550,N/A,"2.6
+8",Gangarampur to Kolkata,https://www.redbus.in/bus-tickets/gangarampur-to-kolkata
+NBSTC-COB-FKT-SLG-06-15:30 - 159676,Non AC Seater 2+2,15:30,19:00,03h 30m,INR 119,45 Seats available,"1.5
+16",Cooch Behar (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-siliguri
+Jay Kali Bus Service,Non AC Seater (2+2),12:50,15:50,03h 00m,INR 122,48 Seats available,New,Cooch Behar (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-siliguri
+Mahaprabhu Travels,A/C Seater (2+3),07:54,11:00,03h 06m,INR 250,37 Seats available,"2.7
+11",Cooch Behar (West Bengal) to Siliguri,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-siliguri
+NBSTC-BLG-KOL-R1-18:30 - 156419,NON A/C Seater Push Back (2+2),19:40,06:00,10h 20m,INR 327,N/A,"3.0
+14",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Express Line,Volvo 9600 A/C Semi Sleeper (2+2),20:00,05:00,09h 00m,INR 899,N/A,"4.6
+55",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Rubi Paribahan  ,Volvo 9600 A/C Seater/Sleeper (2+1),19:50,04:30,08h 40m,INR 870,N/A,"4.7
+24",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Shyamoli Paribahan Pvt Ltd,Volvo A/C Seater (2+2),20:15,05:00,08h 45m,INR 1000,N/A,"3.8
+22",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Sonar Tori,A/C Seater / Sleeper (2+2),20:50,06:30,09h 40m,648,N/A,"4.6
+5",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Jio Dolphin Travels,NON A/C Seater / Sleeper (2+2),20:00,05:30,09h 30m,INR 340,N/A,"4.4
+4",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Padmanabha Paribahan,A/C Seater / Sleeper (2+2),20:25,07:00,10h 35m,599,N/A,"3.6
+7",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),21:00,06:30,09h 30m,INR 400,N/A,"3.4
+7",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Mohanta Travels,NON A/C Seater / Sleeper (2+2),20:30,06:00,09h 30m,361,N/A,"3.1
+5",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),20:10,06:00,09h 50m,INR 400,N/A,"3.0
+2",Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+Renuka Travels,NON A/C Seater / Sleeper (2+2),19:15,06:00,10h 45m,INR 350,N/A,1.5,Buniadpur to Kolkata,https://www.redbus.in/bus-tickets/buniadpur-to-kolkata
+NBSTC-RAI-KOL-R1-19:30 - 156414,NON A/C Seater Push Back (2+2),20:30,06:00,09h 30m,INR 321,N/A,"3.4
+4",Raiganj to Barasat (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-barasat-west-bengal
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),19:15,05:55,10h 40m,INR 700,N/A,2.4,Raiganj to Barasat (West Bengal),https://www.redbus.in/bus-tickets/raiganj-to-barasat-west-bengal
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,05:15,14h 15m,INR 515,N/A,"1.8
+5",Kolkata to Dhupguri (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-dhupguri-west-bengal
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,06:30,13h 30m,INR 555,N/A,"4.1
+9",Kolkata to Dhupguri (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-dhupguri-west-bengal
+NBSTC-RAI-KOL-R1-19:30 - 156414,NON A/C Seater Push Back (2+2),20:30,05:15,08h 45m,INR 278,N/A,"4.1
+9",Raiganj to Ranaghat,https://www.redbus.in/bus-tickets/raiganj-to-ranaghat
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),19:15,03:10,07h 55m,INR 700,N/A,2.4,Raiganj to Ranaghat,https://www.redbus.in/bus-tickets/raiganj-to-ranaghat
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),19:45,04:10,08h 25m,540,N/A,3.0,Raiganj to Ranaghat,https://www.redbus.in/bus-tickets/raiganj-to-ranaghat
+RAYAN,A/C Seater / Sleeper (2+1),21:15,04:30,07h 15m,INR 1500,N/A,2.4,Raiganj to Ranaghat,https://www.redbus.in/bus-tickets/raiganj-to-ranaghat
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,02:45,11h 45m,INR 375,N/A,4.3,Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+NBSTC-KOL-SLG-R1-18:00 - 156411,NON A/C Seater Push Back (2+2),18:00,03:30,09h 30m,INR 405,N/A,"4.6
+11",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Express Line,Volvo 9600 A/C Seater/Sleeper (2+1),19:30,06:55,11h 25m,INR 1199,N/A,"4.1
+20",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Lokenath Bus Service,Volvo Multi-Axle A/C Seater/Sleeper (2+1),18:15,05:00,10h 45m,1100,N/A,"4.5
+13",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Lokenath Bus Service,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:45,06:15,11h 30m,1500,N/A,"4.5
+9",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),16:45,04:00,11h 15m,INR 750,N/A,"2.2
+5",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Lokenath Bus Service,Volvo A/C B11R Multi Axle Semi Sleeper (2+2),21:00,07:45,10h 45m,INR 1050,N/A,"5.0
+2",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Maa Durga Bus Service (SNT),A/C Seater / Sleeper (2+1),17:00,04:00,11h 00m,720,N/A,"3.7
+2",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Prarthana Bus Service,A/C Seater / Sleeper (2+1),18:45,04:30,09h 45m,INR 750,N/A,New,Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:45,04:45,13h 00m,540,N/A,3.0,Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Rubi Paribahan  ,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:00,06:00,11h 00m,INR 1500,N/A,"5.0
+3",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,06:05,11h 35m,INR 1500,N/A,"4.7
+2",Kolkata to Kishanganj,https://www.redbus.in/bus-tickets/kolkata-to-kishanganj
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,05:30,14h 30m,INR 530,N/A,"3.9
+7",Kolkata to Falakata (west bengal),https://www.redbus.in/bus-tickets/kolkata-to-falakata
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,07:00,14h 00m,INR 571,N/A,"2.4
+15",Kolkata to Falakata (west bengal),https://www.redbus.in/bus-tickets/kolkata-to-falakata
+NBSTC-KOL-COB-AC 19:30 - 176646,AC Seater (2+2),19:30,10:45,15h 15m,INR 1470,N/A,2.6,Kolkata to Falakata (west bengal),https://www.redbus.in/bus-tickets/kolkata-to-falakata
+NBSTC-BLG-SLG-E1-05:00 AM - 164545,Non AC Seater (2+3),05:00,13:00,08h 00m,INR 222,46 Seats available,"2.9
+16",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+Mohanta Travels,A/C Seater / Sleeper (2+2),21:00,05:00,08h 00m,409,N/A,"3.7
+96",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+New Dolphin Travels,NON A/C Seater / Sleeper (2+2),21:40,05:00,07h 20m,INR 280,N/A,"4.0
+52",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+Shree Krishna Travels,A/C Seater / Sleeper (2+2),21:10,04:30,07h 20m,INR 380,N/A,"3.1
+50",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+Sankar Travels,A/C Seater / Sleeper (2+1),20:10,04:30,08h 20m,INR 450,N/A,"2.4
+17",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+Gopal Travels,A/C Seater / Sleeper (2+2),20:30,04:00,07h 30m,INR 250,N/A,"2.4
+8",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+Padmanabha Paribahan,A/C Seater / Sleeper (2+2),20:45,05:10,08h 25m,440,N/A,"2.0
+2",Balurghat to Siliguri,https://www.redbus.in/bus-tickets/balurghat-to-siliguri
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:00,04:30,09h 30m,INR 367,N/A,"4.7
+7",Cooch Behar (West Bengal) to Farakka,https://www.redbus.in/bus-tickets/cooch-behar-west-bengal-to-farakka
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),14:30,05:55,15h 25m,INR 700,N/A,2.4,Siliguri to Barasat (West Bengal),https://www.redbus.in/bus-tickets/siliguri-to-barasat-west-bengal
+NBSTC-COB-BHP-R1-19:00 - 156424,Non AC Seater 2+2,19:50,06:00,10h 10m,INR 369,N/A,"3.2
+3",Falakata (west bengal) to Omarpur (West Bengal),https://www.redbus.in/bus-tickets/falakata-to-omarpur-west-bengal
+NBSTC-RAI-BND-BLG-04-7:00 - 164023,Non AC Seater (2+3),07:00,10:00,03h 00m,INR 87,34 Seats available,"2.4
+4",Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+NBSTC-RAI-BND-BLG-05-8:00 - 164024,Non AC Seater (2+3),08:00,11:00,03h 00m,INR 87,38 Seats available,"1.8
+3",Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+NBSTC-RAI-BND-BLG-06-9:15 - 164032,Non AC Seater (2+3),09:15,12:15,03h 00m,INR 87,41 Seats available,"3.0
+1",Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+NBSTC-RAI-BND-BLG-07-10:15 - 164033,Non AC Seater (2+3),10:15,13:15,03h 00m,INR 87,41 Seats available,"1.0
+1",Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+NBSTC-RAI-BND-BLG-08-11:20 - 164034,Non AC Seater (2+3),11:20,14:20,03h 00m,INR 87,38 Seats available,3.0,Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+NBSTC-RAI-BND-BLG-11-13:45 - 164035,Non AC Seater (2+3),13:45,16:45,03h 00m,INR 87,38 Seats available,"5.0
+4",Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+Shree Krishna Travels,A/C Seater / Sleeper (2+2),02:00,05:00,03h 00m,INR 380,9 Seats available,3.1,Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+Gopal Travels,A/C Seater / Sleeper (2+2),02:00,05:00,03h 00m,INR 300,65 Seats available,2.0,Raiganj to Balurghat,https://www.redbus.in/bus-tickets/raiganj-to-balurghat
+Kolkata to Coochbehar (E2) 3:00 pm - 171781,Non AC Seater (2+3),15:00,05:00,14h 00m,INR 500,N/A,"3.7
+3",Kolkata to Maynaguri (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-maynaguri-west-bengal
+NBSTC-KOL-COB-R1-17:00 - 156429,Non AC Seater 2+2,17:00,06:00,13h 00m,INR 538,N/A,"3.6
+13",Kolkata to Maynaguri (West Bengal),https://www.redbus.in/bus-tickets/kolkata-to-maynaguri-west-bengal
+NORTH BENGAL STATE TRANSPORT CORPORATION - 164047,Non AC Seater (2+3),10:30,14:30,04h 00m,INR 140,46 Seats available,"2.8
+8",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+NORTH BENGAL STATE TRANSPORT CORPORATION - 164052,Non AC Seater (2+3),12:20,16:20,04h 00m,INR 140,41 Seats available,"1.9
+7",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Lokenath (Maa Tara),NON A/C Seater / Sleeper (2+2),15:15,20:15,05h 00m,720,8 Seats available,3.0,Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Royal Cruiser,Scania Multi-Axle AC Semi Sleeper (2+2),17:35,21:20,03h 45m,INR 600,37 Seats available,"3.8
+101",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Shree Krishna Travels,NON A/C Seater / Sleeper (2+2),20:00,02:00,06h 00m,INR 258,33 Seats available,"4.7
+2",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Aradhana Bus Service,NON A/C Seater / Sleeper (2+2),14:30,19:15,04h 45m,INR 700,19 Seats available,"1.2
+3",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Lokenath Bus Service,Volvo A/C Seater (2+2),17:00,20:50,03h 50m,INR 1550,14 Seats available,4.0,Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Lokenath Bus Service,A/C Seater / Sleeper (2+1),18:15,22:45,04h 30m,INR 1250,12 Seats available,"4.0
+1",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),18:30,22:30,04h 00m,INR 2800,27 Seats available,"5.0
+13",Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),19:30,23:30,04h 00m,INR 2800,N/A,5.0,Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
+Easy Ride,Volvo 9600 Multi-Axle A/C Sleeper (2+1),20:15,00:15,04h 00m,INR 2800,N/A,5.0,Siliguri to Raiganj,https://www.redbus.in/bus-tickets/siliguri-to-raiganj
